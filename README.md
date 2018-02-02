@@ -13,7 +13,7 @@ Layout changes based on device width
 Percent vs fixed layouts
 
 
-## Task:
+# Task:
 
 Build an adaptive website that has breakpoints at 400px, 768px, and 1100px.  This project is very open ended and meant to challenge what you learned today.  The correct solution will have breakpoints at the directed values but how it looks is up to you.
 
